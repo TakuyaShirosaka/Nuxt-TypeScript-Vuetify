@@ -1,0 +1,28 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "My delightful Nuxt.js project",
+  "author": "Takuya,Shirosaka",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/typescript": "^2.6.2",
+    "@nuxtjs/axios": "^5.4.1",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.6.2",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.3",
+    "vuetify": "^1.5.11",
+    "vuetify-loader": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
